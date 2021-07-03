@@ -1,4 +1,4 @@
 This is pav Bhaji.
 
-ingredients.md
-Recipe.md
+[Ingredients](ingredients.md)
+[Recipe](Recipe.md)
